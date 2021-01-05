@@ -1,3 +1,9 @@
+# **Calculadora**
+
+<p align="center">
+  <img src="https://github.com/cibelefonseca/Calculadora-React/blob/main/img/screen.png?raw=true" width="50%" >
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
